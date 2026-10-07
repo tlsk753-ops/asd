@@ -1,0 +1,6 @@
+{
+  "name": "중2 수학 외심과 내심 실시간 비교 탐구실",
+  "description": "중학교 2학년 수학 교과 과정에 맞춘 삼각형의 외심과 내심 성질 실시간 시각화 및 크기·유형별 비교 인터랙티브 실험실",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
